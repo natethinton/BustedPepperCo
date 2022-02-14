@@ -4721,7 +4721,7 @@ figcaption {
   }
 
   .heading-jumbo {
-    font-size: 36px;
+    font-size: 60px;
     line-height: 48px;
   }
 
@@ -4832,6 +4832,11 @@ figcaption {
   .blog-detail-header-wrap {
     width: 100%;
     max-width: none;
+  }
+
+  .heading {
+    padding-right: 10px;
+    padding-left: 10px;
   }
 }
 
